@@ -26,7 +26,7 @@ The following hypervisors are known to support VirtIO:
 
 ## Installation
 This module comes preinstalled/bundled with `redpill-load`. If you're a developer, and you're creating a custom fork you
-should use index URL of `http://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/rpext-index.json`
+should use index URL of `https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/rpext-index.json`
 
 
 ## Usage

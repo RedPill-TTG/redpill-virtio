@@ -1,6 +1,6 @@
 {
   "id": "thethorgroup.virtio",
-  "url": "http://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/rpext-index.json",
   "info": {
     "name": "VirtIO",
     "description": "Adds VirtIO support for fast network/PCI/SCSI/network/console paravirtualization under QEmu (Proxmox, VirtualBox, virsh, and similar)",
